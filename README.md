@@ -20,4 +20,4 @@ CraftTweaker官方文档：[https://docs.blamejared.com/](https://docs.blamejare
 
 BlameJared的Discord服务器：[https://discord.com/invite/cFCBHn8FjE](https://discord.com/invite/cFCBHn8FjE)
 
-国内魔改交流群：https://jq.qq.com/?\_wv=1027\&k=AIsuGTyV
+国内魔改交流群：[https://jq.qq.com/?\_wv=1027\&k=AIsuGTyV](https://jq.qq.com/?\_wv=1027\&k=AIsuGTyV)
