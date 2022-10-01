@@ -1,0 +1,7 @@
+# 环境配置
+
+这里说一下，首先请确保你了解Minecraft的文件结构以及Forge的作用，否则你在阅读的时候可能会产生大量疑惑点。
+
+Minecraft的文件结构属于最基础的知识，这里不做赘述，如果不了解请及时了解。
+
+Forge是一个ModLoader，就是一个Mod加载器，使Mod能够在Minecraft上运行，否则Minecraft只能以原版的形式运行。相关的ModLoader还有Fabric等。
