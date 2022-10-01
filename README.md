@@ -1,8 +1,8 @@
 ---
-description: 欢迎您阅读本篇教程！
+description: 很高兴您阅读本篇教程！
 ---
 
-# ZenScript Tutorial
+# ZenScript  Tutorial
 
 ### 引言
 
@@ -22,7 +22,7 @@ CraftTweaker官方文档：[https://docs.blamejared.com/](https://docs.blamejare
 
 友谊的ZenTutorial：[https://youyi580.gitbook.io/zentutorial/](https://youyi580.gitbook.io/zentutorial/)
 
-友谊的Cog：[https://youyi580.gitbook.io/cog/](https://youyi580.gitbook.io/cog/)
+友谊的Cog：https://youyi580.gitbook.io/cog/
 
 BlameJared的Discord服务器：[https://discord.com/invite/cFCBHn8FjE](https://discord.com/invite/cFCBHn8FjE)
 
