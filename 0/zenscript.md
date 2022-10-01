@@ -2,7 +2,7 @@
 
 ## **简介**
 
-ZenScript\*(后文简称ZS)_，由_[_kindlich_](https://github.com/kindlich)_和_[_jaredlll08_](https://github.com/jaredlll08)_等人编写，此语言是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker_(后文简称CrT)\*挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者想实现一些简单的功能却又不得不写模组的麻烦。
+ZenScript_(后文简称ZS)，_由kindlich和jaredlll08等人编写，此语言是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker_(后文简称CrT)_挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者想实现一些简单的功能却又不得不写模组的麻烦。
 
 CrT的前身是MineTweaker，在低版本运行，但为了确保跟进主流，CrT代替了它。
 
@@ -18,6 +18,6 @@ ZS基于Java语言编写，因此很多地方上与Java比较相似，但又有�
 
 ## 相关链接
 
-ZenScript源代码仓库：https://github.com/CraftTweaker/ZenScript
+ZenScript源代码仓库：[https://github.com/CraftTweaker/ZenScript](https://github.com/CraftTweaker/ZenScript)
 
-CraftTweaker源代码仓库：https://github.com/CraftTweaker/CraftTweaker
+CraftTweaker源代码仓库：[https://github.com/CraftTweaker/CraftTweaker](https://github.com/CraftTweaker/ZenScript)
