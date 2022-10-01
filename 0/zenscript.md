@@ -1,8 +1,8 @@
-# ZenScript 简介
+# ZenScript
 
 ## **简介**
 
-ZenScript_(后文简称ZS)，_由kindlich和Jaredlll08等人编写，此语言是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker_(后文简称CrT)_挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者想实现一些简单的功能却又不得不写模组的麻烦。
+ZenScript(*后文简称ZS*)，由kindlich和Jaredlll08等人编写，此语言是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker(*后文简称CrT*)挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者想实现一些简单的功能却又不得不写模组的麻烦。
 
 CrT的前身是MineTweaker，在低版本运行，但为了确保跟进主流，CrT代替了它。
 
