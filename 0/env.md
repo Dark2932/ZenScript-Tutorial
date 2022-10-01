@@ -10,4 +10,4 @@ Forge是一个ModLoader，就是一个Mod加载器，使Mod能够在Minecraft上
 
 ## 安装基础模组
 
-首先，你需要下载一些模组，使CrT在你的Minecraft客户端上运行。
+首先，你需要下载模组，使CrT在你的Minecraft客户端上运行。
