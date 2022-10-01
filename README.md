@@ -2,21 +2,27 @@
 description: 很高兴您阅读本篇教程！
 ---
 
-# ZenScript Tutorial
+# ZenScript  Tutorial
 
 ### 引言
 
-本篇教程将详细介绍ZenScript语言的语法格式。
+本篇教程将详细介绍ZenScript语言。
 
-鉴于国内没有对于ZenScript语言进行详细讲解得教程，且已有的教程也需要有一定的编程基础才能够读懂，我编写了本教程，带领各位魔改作者们学习ZenScript，从入门到精通。
+鉴于国内没有对于ZenScript语言进行详细讲解的教程，且已有的教程也需要有一定的编程基础才能够读懂，我编写了本教程，带领各位魔改作者们学习ZenScript这门轻量好用的语言。
 
-本教程会持续更新，并修改错误之处，如果有疑问请访问 仓库 提交意见。
+在阅读本篇教程之前，请保证您有一定的整合包开发基础知识，确保在阅读过程中不会出现看不懂的情况。
 
-### 补充
+本教程基于Minecraft 1.12.2编写，因高版本使用的魔改语言不同，故不会对更高版本讲解，如果有需要，请参考下方的补充链接。
+
+本教程会持续更新，并修改错误之处，如果有疑问请访问 [仓库](https://github.com/Dark2932/ZenScript-Tutorial) 提交意见。
+
+### 补充链接
 
 CraftTweaker官方文档：[https://docs.blamejared.com/](https://docs.blamejared.com/)
 
 友谊的ZenTutorial：[https://youyi580.gitbook.io/zentutorial/](https://youyi580.gitbook.io/zentutorial/)
+
+友谊的Cog：https://youyi580.gitbook.io/cog/
 
 BlameJared的Discord服务器：[https://discord.com/invite/cFCBHn8FjE](https://discord.com/invite/cFCBHn8FjE)
 
