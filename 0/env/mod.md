@@ -20,10 +20,10 @@ description: 首先你需要下载模组，使CrT在你的Minecraft客户端上�
 >
 > Zen Utils 标注必装是因为后续的开发中会用到其内部方法，在后面的 *[依赖库](https://lqy070821.gitbook.io/zenscript-tutorial/0/env/lib)* 页面中会介绍到部分相关内容。
 >
-> Probe跟其他模组还不太一样，这个玩意是对VSCode提供补全兼容的，本体并不包含任何扩展方法，后面会介绍到。
+> Probe 跟其他模组还不太一样，这个玩意是对VSCode提供补全兼容的，本体并不包含任何扩展方法，后面会介绍到。
 
 将下载的模组装载至 `mods` 文件夹，然后打开启动游戏客户端。
 
 打开 `Mods` 选项，如果出现 `CraftTweaker2` 则说明已经装载成功。
 
-同时你还会看到 `CT-GUI` 和 `CraftTweaker JEI Support` 两个Mod，这两个是CraftTweaker内置的内容，功能同名称一样。
+同时你还会看到 `CT-GUI` 和 `CraftTweaker JEI Support` 两个Mod，这两个是CraftTweaker内置且不可删除的内容，前者是可视化工具，后者则是对JEI的兼容。
