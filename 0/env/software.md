@@ -12,21 +12,26 @@ Visual Studio Code _(以下简称VSCode)_ 是一款极为轻量的代码编辑�
 
 很多初学者认为ZS只是拿来玩玩的语言，然后就拿那个黑白相间的记事本开撸代码，你猜最后怎么着，自己写的东西都不知道在哪里运行。
 
-VSCode提供了代码高亮、括号补全、自动缩进等功能，如果装载扩展，还能实现自动补全和彩色括号等更多内容。除此之外，ZS的相关扩展插件基本上也只对VSCode兼容\~\~(因为实在是太好用了)\~\~，故此为首选的编辑器软件。
+VSCode提供了代码高亮、括号补全、自动缩进等功能，如果装载扩展，还能实现自动补全和彩色括号等更多内容。除此之外，ZS的相关扩展插件基本上也只对VSCode兼容~~(因为实在是太好用了)~~，故此为首选的编辑器软件。
 
 点击 [这里](https://code.visualstudio.com/) 访问官网下载，该软件免费开源，无需付费。
 
-> 在魔改圈，VSCode是魔改作者们的标配，人人必须都有。
+> 在魔改圈，VSCode是魔改作者们的标配，必须人人都有。
 
 ### 安装与配置
 
-下载安装包后，双击运行安。安装完成后，打开编辑器，找到左侧的 ![\_\_U8\_MH2@NK3L\`W7DEWXKDA.png](https://s2.loli.net/2022/10/01/Mf6YZDFKSLk4Cig.png) 图标。
+下载安装包后，双击运行安装。安装完成后，打开编辑器，找到左侧的 ![\_\_U8\_MH2@NK3L\`W7DEWXKDA.png](https://s2.loli.net/2022/10/01/Mf6YZDFKSLk4Cig.png) 图标。
 
 此选项为扩展选项，开发中我推荐装载如下扩展：
 
 * ZenScript **(必选，作者为Yesterday17)**
+
+  > 还记得之前的Probe模组吗？它就是跟这个扩展搭配使用的，两者同时装载之后，对代码的补全功能就能发挥出来啦！
+
 * Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code
+
 * Jetbrains New Dark Theme
+
 * Rainbow Brackets
 
 装载完毕后，重启VSCode，扩展就装载完成了。
