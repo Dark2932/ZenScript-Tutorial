@@ -4,4 +4,4 @@
 
 Minecraft的文件结构属于最基础的知识，这里不做赘述，如果不了解请及时了解。
 
-Forge是一个ModLoader，就是一个Mod加载器，使Mod能够在Minecraft上运行，否则Minecraft只能以原版的形式运行。
+Forge本质上是一套通过修改Minecraft方式实现的第三方API，使Mod开发者们更方便地开发Mod，同时也是使Mod在Minecraft上运行的API。
