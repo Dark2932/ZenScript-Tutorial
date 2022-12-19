@@ -1,4 +1,8 @@
-# ZenScript 简史
+---
+description: ZenScript与CraftTweaker的诞生与联系
+---
+
+# ZenScript 与 CraftTweaker
 
 ## **简介**
 
