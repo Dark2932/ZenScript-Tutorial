@@ -1,21 +1,34 @@
-# ZenScript
+---
+description: ZenScript与CraftTweaker的诞生与联系
+
+---
+
+# ZenScript 与 CraftTweaker
 
 ## **简介**
 
-ZenScript(*后文简称ZS*)，由kindlich和Jaredlll08等人编写，此语言是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker(*后文简称CrT*)挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者想实现一些简单的功能却又不得不写模组的麻烦。
+ZenScript*<mark style="color:purple;">(以下简称ZS)</mark>*，最初由stanhebben编写，现由Jaredlll08和kindlich等人维护。
 
-CrT的前身是MineTweaker，在低版本运行，但为了确保跟进主流，CrT代替了它。
+ZS是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker*<mark style="color:purple;">(以下简称CrT)</mark>*挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者们想实现一些简单的功能却又不得不写模组的麻烦。
 
-> 在1.13及更高的版本，CrT改为使用ZenCode，而不再是ZenScript。
+ZS适用于Minecraft的修改操作，要使用ZS对游戏进行修改，游戏内需要装载CrT模组。这样便可以实现ZS与游戏的接口。另外注意，ZS脱离了Minecraft是无法单独在外运行的。
 
-ZS基于Java语言编写，因此很多地方上与Java比较相似，但又有很多地方跟Java不同，例如变量声明方式。
+CrT模组目前最为广泛的使用版本为Minecraft 1.12.2，1.12.2曾是Minecraft的巅峰时期，故CrT的使用比例也是最高。在旧版本，MineTweaker*<mark style="color:purple;">(以下简称MT)</mark>*为最常用的魔改模组，同时它也是CrT的前身。
 
-因为ZS只针对Minecraft，所以必须在游戏内装载CrT模组才能使用ZS对游戏进行修改操作，而不是在游戏外部进行操作。
+CrT的前身本是MT，但由于前作者stanhebben停止了对MineTweaker的维护，Jaredlll08等人便接手了此项目，CraftTweaker及衍生系列便就此诞生。
 
-下个页面将会对ZS的配置进行讲解。
+Minecraft 1.13以后，游戏经历了大重写，Forge及其各个模组也不得不跟着重写，CrT也干脆趁着这个机会重写了一波，故在1.12.2之后的版本，魔改也不再使用老一代写法。
+
+> 在1.13及更高的版本，CraftTweaker改为使用ZenCode，不再是ZenScript。
+>
+> ZenScript与ZenCode均独立运行，并没有多大的联系。
+
+ZS基于Java语言编写，是一门封装型语言，需要基于Java运行。
+
+下个页面将会对配置ZS的开发环境进行讲解。
 
 ## 相关链接
 
-ZenScript源代码仓库：[https://github.com/CraftTweaker/ZenScript](https://github.com/CraftTweaker/ZenScript)
+ZenScript源代码仓库：https://github.com/CraftTweaker/ZenScript
 
-CraftTweaker源代码仓库：[https://github.com/CraftTweaker/CraftTweaker](https://github.com/CraftTweaker/ZenScript)
+CraftTweaker源代码仓库：https://github.com/CraftTweaker/CraftTweaker
