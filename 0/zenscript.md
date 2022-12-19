@@ -7,13 +7,13 @@ description: ZenScript与CraftTweaker的诞生与联系
 
 ## **简介**
 
-ZenScript*<mark style="color:purple;">(以下简称ZS)</mark>*，最初由stanhebben编写，现由Jaredlll08和kindlich等人维护。
+ZenScript<mark style="color:purple;">*(以下简称ZS)*</mark>，最初由stanhebben编写，现由Jaredlll08和kindlich等人维护。
 
-ZS是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker*<mark style="color:purple;">(以下简称CrT)</mark>*挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者们想实现一些简单的功能却又不得不写模组的麻烦。
+ZS是专门针对Minecraft进行修改的一门语言，与模组CraftTweaker<mark style="color:purple;">*(以下简称CrT)*</mark>挂钩，使整合包作者们达到更轻易修改游戏的目的，省去了作者们想实现一些简单的功能却又不得不写模组的麻烦。
 
 ZS适用于Minecraft的修改操作，要使用ZS对游戏进行修改，游戏内需要装载CrT模组。这样便可以实现ZS与游戏的接口。另外注意，ZS脱离了Minecraft是无法单独在外运行的。
 
-CrT模组目前最为广泛的使用版本为Minecraft 1.12.2，1.12.2曾是Minecraft的巅峰时期，故CrT的使用比例也是最高。在旧版本，MineTweaker*<mark style="color:purple;">(以下简称MT)</mark>*为最常用的魔改模组，同时它也是CrT的前身。
+CrT模组目前最为广泛的使用版本为Minecraft 1.12.2，1.12.2曾是Minecraft的巅峰时期，故CrT的使用比例也是最高。在旧版本，MineTweaker<mark style="color:purple;">*(以下简称MT)*</mark>为最常用的魔改模组，同时它也是CrT的前身。
 
 CrT的前身本是MT，但由于前作者stanhebben停止了对MineTweaker的维护，Jaredlll08等人便接手了此项目，CraftTweaker及衍生系列便就此诞生。
 

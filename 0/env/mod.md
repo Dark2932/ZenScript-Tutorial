@@ -26,4 +26,4 @@ description: 首先你需要下载模组，使CrT在你的Minecraft上运行。
 
 打开 `Mods` 选项，如果出现 `CraftTweaker2` 则说明已经装载成功。
 
-同时你还会看到 `CT-GUI` 和 `CraftTweaker JEI Support` 两个Mod，这两个是CraftTweaker内置且无法被删除的内容，前者是可视化工具*（很废物，压根不能用）*，后者则是对JEI的兼容。
+同时你还会看到 `CT-GUI` 和 `CraftTweaker JEI Support` 两个Mod，这两个是CraftTweaker内置且无法被删除的内容，前者是可视化工具 _(很废物，压根不能用)_，后者则是对JEI的兼容。
